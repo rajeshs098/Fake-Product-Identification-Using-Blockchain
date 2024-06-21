@@ -12,7 +12,9 @@ This Project Uses SepoliaETH Testnet...
 
 #### Test User 1
 Brand ID: adminnike
+
 Brand Name: NIKE
+
 Password: admin
 
 
